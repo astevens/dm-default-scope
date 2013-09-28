@@ -1,3 +1,4 @@
+[![Gem Version](https://badge.fury.io/rb/dm-default-scope.png)](http://badge.fury.io/rb/dm-default-scope)
 # Use a default scope with datamapper
 
 DataMapper does not provide a way to set a default scope in a model.
