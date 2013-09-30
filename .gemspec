@@ -7,6 +7,7 @@ Gem::Specification.new do |gem|
   gem.email             = ["carlos2@compendium.com.ar"]
   gem.homepage          = "http://github.com/carlosipe/dm-default-scope"
   gem.files = ["LICENSE","README.md","lib/dm-default-scope.rb",".gemspec"]
+  gem.licenses = ['MIT']
 
   gem.add_runtime_dependency('dm-core', '<= 1.2')
 end
