@@ -9,5 +9,5 @@ Gem::Specification.new do |gem|
   gem.files = ["LICENSE","README.md","lib/dm-default-scope.rb",".gemspec"]
   gem.licenses = ['MIT']
 
-  gem.add_runtime_dependency('dm-core', '<= 1.2')
+  gem.add_runtime_dependency('dm-core', '~> 1.2')
 end
